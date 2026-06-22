@@ -4,7 +4,6 @@
 Develop a Java program that converts temperature from Celsius to Fahrenheit.
 
 ## Technologies Used
-- Java
 - Core Java
 - Scanner Class
 
