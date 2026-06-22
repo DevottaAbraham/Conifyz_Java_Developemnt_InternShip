@@ -39,8 +39,8 @@ The objective of this repository is to demonstrate my Core Java programming skil
 
 **Devotta Abraham C**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://https://github.com/DevottaAbraham/Conifyz_Java_Developemnt_InternShip.git
+- LinkedIn:linkedin.com/in/devotta-abraham-webdeveloper
 
 ---
 
