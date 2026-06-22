@@ -39,7 +39,7 @@ The objective of this repository is to demonstrate my Core Java programming skil
 
 **Devotta Abraham C**
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/YOUR_USERNAM
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 
 ---
