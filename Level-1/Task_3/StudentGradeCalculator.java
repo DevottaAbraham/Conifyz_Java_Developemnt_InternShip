@@ -71,8 +71,9 @@ public class StudentGradeCalculator {
 
 
 
-
+      sc.close();
 
     }
-    
+
+
 }

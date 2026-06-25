@@ -43,10 +43,7 @@ public class PasswordGenerator {
         System.out.println("Generated Password: " + password);
 
 
-
-
-
-
+        sc.close();
         
 
         
