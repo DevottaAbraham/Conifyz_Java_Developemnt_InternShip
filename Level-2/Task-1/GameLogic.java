@@ -70,13 +70,17 @@ public class GameLogic {
             row = sc.nextInt();
 
             System.out.println("Enter Column (1-3)");
-            column = sc.nextInt();       
+            column = sc.nextInt();   
+            
+              sc.close();
+
         }
         
         board[row-1][column-1]=player;
 
         display();
 
+         
 
     }
 
@@ -156,6 +160,8 @@ public class GameLogic {
             board[i][j] = ' ';
         }
     }
+
+ 
 
     }
 }
