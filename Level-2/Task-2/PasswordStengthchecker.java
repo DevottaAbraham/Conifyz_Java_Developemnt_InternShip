@@ -96,6 +96,8 @@ public class PasswordStengthchecker {
                   System.out.println("Enter The Password Agin \n");
               }
 
+              sc.close();
+
 
            }
         
