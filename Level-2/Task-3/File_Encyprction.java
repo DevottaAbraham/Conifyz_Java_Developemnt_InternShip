@@ -21,16 +21,11 @@ public class File_Encyprction {
 
         switch (choice) {
 
-            case 1:
-                logic.EncryptFile(fileName);
-                break;
+            case 1 -> logic.EncryptFile(fileName);
 
-            case 2:
-                logic.DecryptFile(fileName);
-                break;
+            case 2 -> logic.DecryptFile(fileName);
 
-            default:
-                System.out.println("Invalid Choice");
+            default -> System.out.println("Invalid Choice");
         }
 
         sc.close();
