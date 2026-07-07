@@ -1,5 +1,4 @@
 
-
 public class Student {
 
     private String studentName;
@@ -21,7 +20,6 @@ public class Student {
 
         return studentName;
     
-
     }
 
     public int getStudentId(){
