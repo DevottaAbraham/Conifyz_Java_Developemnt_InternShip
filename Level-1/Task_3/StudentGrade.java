@@ -1,6 +1,4 @@
 
-
-
 public class StudentGrade {
 
     public int CalculateTotal(int[] grades){

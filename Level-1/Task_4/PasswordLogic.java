@@ -33,6 +33,11 @@ public class PasswordLogic {
               }if(specialCharacters){
                   availableCharacters+=SPECIAL_CHARACTERS;
               }
+              if(availableCharacters.isEmpty()){
+
+                  return "Error:Please Select at least one characters...";
+
+              }
 
             Random random = new Random();
 
@@ -48,10 +53,6 @@ public class PasswordLogic {
                  
 
            }
-
-
-
-            
 
              return str.toString();
     }
